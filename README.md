@@ -1,1 +1,2 @@
 - 👋 Hi, I’m Jose Armenteros
+- En el següent repositori es troben els codis pel càlcul de les mètriques de PSNT, MSE i SSIM.
