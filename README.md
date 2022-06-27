@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Jose Armenteros
 - En el següent repositori es troben els codis pel càlcul de les mètriques de PSNR, MSE i SSIM.
+- En els següents enllaços es poden trobar els datasets utilitzats: https://storage.googleapis.com/hific/kodak/visualize.html?perPage=25 , https://storage.googleapis.com/hific/clic2020/visualize.html?perPage=10&page=1
